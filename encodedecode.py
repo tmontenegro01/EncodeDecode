@@ -1,3 +1,6 @@
+#Thomas Montenegro (tmontenegro01)
+#Lab 6: Version Control
+
 def main():
     while True:
         print("Menu\n-------------\n1. Encode\n2. Decode\n3. Quit")
